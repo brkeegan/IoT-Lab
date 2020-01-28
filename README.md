@@ -15,6 +15,7 @@ You can download the SD cardimage here and and copy it onto a 32GB SD card to ge
  - Scratch 3
  - Minecraft-pi
  - Idel3 (Python IDE)
+ - Lab sheets are pre-installed
 
 Note: All of the hardware configuration has been enabled for the GPIO devices.
 
