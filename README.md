@@ -1,6 +1,11 @@
 # IoT-Lab
 Iot-Lab for CrowPi
 
+# TODO:
+Create installer file to make this magic happen
+Add blockly to Jupyter
+Add option for headless mode configuration on Jupyter
+
 You can download the SD cardimage here and and copy it onto a 32GB SD card to getyou up and running with the following
 
  - Rasbian (Buster) base OS
