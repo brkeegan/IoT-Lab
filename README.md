@@ -6,7 +6,8 @@ Create installer file to make this magic happen
 Add blockly to Jupyter
 Add option for headless mode configuration on Jupyter
 
-You can download the SD cardimage here and and copy it onto a 32GB SD card to getyou up and running with the following
+You can download the SD cardimage and and copy it onto a 32GB SD card to getyou up and running with the following:
+NOTE: I cannot host the SD iamge here becuase of file size limitations. Please email for the link <brian.x.keegan@tudublin.ie>
 
  - Rasbian (Buster) base OS
  - Adafruit drivers for Raspberry Pi with CrowPi hard ware
